@@ -1,2 +1,2 @@
-# C21
-Writing functions which can take arguements
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
